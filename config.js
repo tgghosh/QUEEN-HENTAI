@@ -60,7 +60,7 @@ global.fglog = 'https://IMG-20231114-WA0115.jpg'
 
 
 global.wait = '* _Waiting Bro Uploading by 𝄟✮͢🦋⃟≛⃝Dûßtø(Töñmöy)❥𝄟✮⃝♥️'
-global.rwait = '🇱🇰'
+global.rwait = '🇮🇳'
 global.dmoji = '🤣'
 global.done = '👍'
 global.error = '👎' 
